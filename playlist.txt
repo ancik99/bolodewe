@@ -3,7 +3,7 @@ NASIONAL
 ===========
 
 
-#EXTINF:-1 group-logo="https://i.imgur.com/oZl4oNH.jpeg",NASIONAL
+#EXTINF:-1 group-logo="https://i.imgur.com/qThQkr7.png",NASIONAL
 
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg",RCTI 1 ON (+)
@@ -333,7 +333,7 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-
 ==========
 HBO GROUP| UTAMA
 ==========
-#EXTINF:-1 group-logo="https://i.imgur.com/0GiICTY.jpeg",HBO
+#EXTINF:-1 group-logo="https://i.imgur.com/FfsPLeR.png",HBO
 
 ===========14/2/2025 HBO SUB INDO CUBMU=========
 
@@ -602,7 +602,7 @@ https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
 OLAHRAGA LOKAL
 ==========
 
-#EXTINF:-1 group-logo="https://i.imgur.com/IQkwAXJ.jpeg",OLAHRAGA LOKAL
+#EXTINF:-1 group-logo="https://i.imgur.com/p1xSxOM.png",OLAHRAGA LOKAL
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
@@ -681,7 +681,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 ==========
 FILM
 ==========
-#EXTINF:-1 group-logo="https://i.imgur.com/kSNGK5D.jpeg",FILM
+#EXTINF:-1 group-logo="https://i.imgur.com/AMk5qwh.png",FILM
 
 ===========14/2/2025 HBO SUB INDO CUBMU=========
 
@@ -1386,7 +1386,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 ==========
 KUALIFIKASI PIALA DUNIA 
 ===========
-#EXTINF:-1 group-logo="https://i.imgur.com/momMGOk.jpeg",KUALIFIKASI PIALA DUNIA
+#EXTINF:-1 group-logo="https://i.imgur.com/nczKe3q.png",KUALIFIKASI PIALA DUNIA
 
 
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/n2M5JTN.jpeg" group-title="KUALIFIKASI PIALA DUNIA",RCTI HD ON
