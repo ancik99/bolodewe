@@ -5657,19 +5657,19 @@ END | PENGETAHUAN  |WORTH 100%
 START | BRI LIGA 1
 ===========
 
-#EXTINF:-1 group-logo="https://i.imgur.com/OTUsPpF.jpeg",BOLA | BRI LIGA 1
+#EXTINF:-1 group-logo="https://i.imgur.com/bxcohOt.jpeg",BOLA | BRI LIGA 1
 
-#EXTINF:-1 group-title="BOLA | BRI LIGA 1" tvg-logo="https://i.imgur.com/OTUsPpF.jpeg",INDOSIAR (Bola) (R)
+#EXTINF:-1 group-title="BOLA | BRI LIGA 1" tvg-logo="https://i.imgur.com/bxcohOt.jpeg",INDOSIAR (Bola) (R)
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/indosiar.m3u8
 http://108.181.56.69:8070/live/test_acct/ohbo1veifa4AhD/162138.ts
 ====
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-#EXTINF:-1 tvg-id="Indosiar.my.id" tvg-name="Indosiar ᴴᴰ" tvg-logo="https://i.imgur.com/OTUsPpF.jpeg" group-title="BOLA | BRI LIGA 1",INDOSIAR (Bola 1) (RW)
+#EXTINF:-1 tvg-id="Indosiar.my.id" tvg-name="Indosiar ᴴᴰ" tvg-logo="https://i.imgur.com/bxcohOt.jpeg" group-title="BOLA | BRI LIGA 1",INDOSIAR (Bola 1) (RW)
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar.my.id" tvg-name="Indosiar ᴴᴰ" tvg-logo="https://i.imgur.com/OTUsPpF.jpeg" group-title="BOLA | BRI LIGA 1",INDOSIAR (Bola 2) (RW)
+#EXTINF:-1 tvg-id="Indosiar.my.id" tvg-name="Indosiar ᴴᴰ" tvg-logo="https://i.imgur.com/bxcohOt.jpeg" group-title="BOLA | BRI LIGA 1",INDOSIAR (Bola 2) (RW)
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
