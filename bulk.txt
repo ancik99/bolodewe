@@ -5691,29 +5691,29 @@ FA CUP
 =========
 singapura
 =========
-#EXTINF:-1 group-logo="https://i.imgur.com/OTUsPpF.jpeg",DUNIA | SINGAPURA
+#EXTINF:-1 group-logo="https://i.imgur.com/wKiE5ng.jpeg",DUNIA | SINGAPURA
 
-#EXTINF:-1 group-title="DUNIA | SINGAPURA" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch 5 (HD).sg" tvg-logo="https://i.imgur.com/OTUsPpF.jpeg",Channel 5
+#EXTINF:-1 group-title="DUNIA | SINGAPURA" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch 5 (HD).sg" tvg-logo="https://i.imgur.com/wKiE5ng.jpeg",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b8ee3db17d34547983a2c3ddc3d28fc:fb5deb5f688fd67ec20c71191c7f4590
 https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
 
-#EXTINF:-1 group-title="DUNIA | SINGAPURA" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch 8 (HD).sg" tvg-logo="https://i.imgur.com/OTUsPpF.jpeg",Channel 8
+#EXTINF:-1 group-title="DUNIA | SINGAPURA" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch 8 (HD).sg" tvg-logo="https://i.imgur.com/wKiE5ng.jpeg",Channel 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4315e7266024dfc9ddb9667727d9635:485a55859fda05a1e3e8ae1ae63906e8 
 https://tglmp02.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.mpd
 
-#EXTINF:-1 group-title="DUNIA | SINGAPURA" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch U (HD).sg" tvg-logo="https://i.imgur.com/OTUsPpF.jpeg",Channel U
+#EXTINF:-1 group-title="DUNIA | SINGAPURA" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch U (HD).sg" tvg-logo="https://i.imgur.com/wKiE5ng.jpeg",Channel U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=981fda1d42aa4d81b367d85794447e2a:61f0b7e53768214d4d56917fbcfc2723
 https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
 
-#EXTINF:-1 group-title="DUNIA | SINGAPURA" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Suria (HD).sg" tvg-logo="https://i.imgur.com/OTUsPpF.jpeg",Suria
+#EXTINF:-1 group-title="DUNIA | SINGAPURA" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Suria (HD).sg" tvg-logo="https://i.imgur.com/wKiE5ng.jpeg",Suria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
 https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
 
-#EXTINF:-1  group-title="DUNIA | SINGAPURA" tvg-logo="https://i.imgur.com/OTUsPpF.jpeg",Vasantham
+#EXTINF:-1  group-title="DUNIA | SINGAPURA" tvg-logo="https://i.imgur.com/wKiE5ng.jpeg",Vasantham
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=239d5a09def64776bec6c74271dfafa9:8e3c76df4951eaa21e9c9c28af6b56d1
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
@@ -5721,16 +5721,16 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1ae750e09889a610744516182c8e95a:2f7aa7b21102d05a986a4212c4afa06f
-#EXTINF:-1 group-title="DUNIA | SINGAPURA" tvg-id="CNA.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/OTUsPpF.jpeg",CNA 1 On (R)
+#EXTINF:-1 group-title="DUNIA | SINGAPURA" tvg-id="CNA.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/wKiE5ng.jpeg",CNA 1 On (R)
 https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_1/chunklist.m3u8
 
-#EXTINF:-1 group-title="DUNIA | SINGAPURA" tvg-name="" tvg-country="ID" tvg-logo="https://i.imgur.com/OTUsPpF.jpeg",CNA 1 On (R)
+#EXTINF:-1 group-title="DUNIA | SINGAPURA" tvg-name="" tvg-country="ID" tvg-logo="https://i.imgur.com/wKiE5ng.jpeg",CNA 1 On (R)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=8bf84ef1f79a4135bd20b7bb363ecb98:b15ad052e1d0e04f7b7bdf500fecd0e5 
 https://atemecdnbalancer-voe.sysln.id/live/eds/CNAHD/mpd/CNAHD.mpd 
 
-#EXTINF:-1 tvg-id="CNA.id" tvg-name="News Asia" tvg-logo="https://i.imgur.com/OTUsPpF.jpeg" group-title="DUNIA | SINGAPURA",CNA 2 On (R)
+#EXTINF:-1 tvg-id="CNA.id" tvg-name="News Asia" tvg-logo="https://i.imgur.com/wKiE5ng.jpeg" group-title="DUNIA | SINGAPURA",CNA 2 On (R)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 https://warningfm.github.io/v3/live/str/ns/ccb94808e06e001.m3u8
 
@@ -5739,94 +5739,87 @@ https://warningfm.github.io/v3/live/str/ns/ccb94808e06e001.m3u8
 ==========
 CHINA
 ===========
-#EXTINF:-1 group-logo="https://i.imgur.com/OTUsPpF.jpeg",DUNIA | CHINA
+#EXTINF:-1 group-logo="https://i.imgur.com/N4AJNdx.jpeg",DUNIA | CHINA
 
 ==edt
 
-#EXTINF:-1 group-logo="https://i.imgur.com/OTUsPpF.jpeg" group-title="DUNIA | CHINA" tvg-name="" tvg-country="ID" tvg-logo="https://i.imgur.com/OTUsPpF.jpeg",Jiangsu TV 1 ON (R)
+#EXTINF:-1 group-logo="https://i.imgur.com/N4AJNdx.jpeg" group-title="DUNIA | CHINA" tvg-name="" tvg-country="ID" tvg-logo="https://i.imgur.com/N4AJNdx.jpeg",Jiangsu TV 1 ON (R)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bd78e03448148aeaeebf394b3196bfd:fe09186f7f8a037caed34d684d429fb5
 https://atemeshield1-voe.sysln.id/live/eds/JiangsuTV/mpd/JiangsuTV.mpd
 
-#EXTINF:-1 group-title="DUNIA | CHINA" tvg-name="" tvg-country="ID" tvg-logo="https://i.imgur.com/OTUsPpF.jpeg",Hunan TV 1 ON (R)
+#EXTINF:-1 group-title="DUNIA | CHINA" tvg-name="" tvg-country="ID" tvg-logo="https://i.imgur.com/N4AJNdx.jpeg",Hunan TV 1 ON (R)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd22058fcb94e3790660d256655663b:cacc2086a1ac693d6173084b942e751d
 https://atemeshield1-voe.sysln.id/live/eds/HunanTV/mpd/HunanTV.mpd
 
-#EXTINF:-1 group-title="DUNIA | CHINA" tvg-name="" tvg-country="ID" tvg-logo="https://i.imgur.com/OTUsPpF.jpeg",TVB Xing He 1 ON (R)
+#EXTINF:-1 group-title="DUNIA | CHINA" tvg-name="" tvg-country="ID" tvg-logo="https://i.imgur.com/N4AJNdx.jpeg",TVB Xing He 1 ON (R)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f123a83acae4361b3c2d5d8d918ff1a:7031880a4c0c7e29014e32554b8b422d
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
 
-#EXTINF:-1 group-title="DUNIA | CHINA" tvg-name="" tvg-country="ID" tvg-logo="https://i.imgur.com/OTUsPpF.jpeg",Zhejiang TV 1 ON (R)
+#EXTINF:-1 group-title="DUNIA | CHINA" tvg-name="" tvg-country="ID" tvg-logo="https://i.imgur.com/N4AJNdx.jpeg",Zhejiang TV 1 ON (R)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d397670017d94f648f4942d3f35b2f10:bd3353307516a1865bf83d6b1ac60368
 https://atemecdnbalancer-voe.sysln.id/live/eds/ZhejiangTV/mpd/ZhejiangTV.mpd
 
-#EXTINF:-1 group-title="DUNIA | CHINA" tvg-name="" tvg-country="ID" tvg-logo="https://i.imgur.com/OTUsPpF.jpeg",Anhui TV 1 ON (R)
+#EXTINF:-1 group-title="DUNIA | CHINA" tvg-name="" tvg-country="ID" tvg-logo="https://i.imgur.com/N4AJNdx.jpeg",Anhui TV 1 ON (R)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d71b38eb626d4e9c9297c04a174ab1f8:ed551459c28dacd8a8a3f16a8c5c985b
 https://atemeshield1-voe.sysln.id/live/eds/AnhuiTV/mpd/AnhuiTV.mpd
 
-#EXTINF:-1 group-title="DUNIA | CHINA" tvg-name="" tvg-country="ID" tvg-logo="https://i.imgur.com/OTUsPpF.jpeg",Dragon TV 1 ON (R)
+#EXTINF:-1 group-title="DUNIA | CHINA" tvg-name="" tvg-country="ID" tvg-logo="https://i.imgur.com/N4AJNdx.jpeg",Dragon TV 1 ON (R)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=887d3f9e52b3432c8b1a79b1d44ab3fe:4ddc4cd97e7016485cb6d25bc2ba3cda
 https://atemeshield1-voe.sysln.id/live/eds/DragonTV/mpd/DragonTV.mpd
 
-#EXTINF:-1 group-title="DUNIA | CHINA" tvg-name="" tvg-country="ID" tvg-logo="https://i.imgur.com/OTUsPpF.jpeg",Shenzen TV 1 ON (R)
+#EXTINF:-1 group-title="DUNIA | CHINA" tvg-name="" tvg-country="ID" tvg-logo="https://i.imgur.com/N4AJNdx.jpeg",Shenzen TV 1 ON (R)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a51cbbc384a949f491c3e5a0bd8c7103:4db32e0ff4147db3d833fdcc1d3e123f
 https://atemecdnbalancer-voe.sysln.id/live/eds/ShenzenTV/mpd/ShenzenTV.mpd
 
-#EXTINF:-1 group-title="DUNIA | CHINA" tvg-name="" tvg-country="ID" tvg-logo="https://i.imgur.com/OTUsPpF.jpeg",TVBS News 1 ON (R)
+#EXTINF:-1 group-title="DUNIA | CHINA" tvg-name="" tvg-country="ID" tvg-logo="https://i.imgur.com/N4AJNdx.jpeg",TVBS News 1 ON (R)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4439ed36468445ea780f1eba44e1d05:e40e4ecb1caadc90c92ce975264c99d8
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mpd/TVBSNews.mpd
 
-#EXTINF:-1 group-title="DUNIA | CHINA" tvg-name="" tvg-country="ID" tvg-logo="https://i.imgur.com/OTUsPpF.jpeg",TVBS Asia 1 ON (R)
+#EXTINF:-1 group-title="DUNIA | CHINA" tvg-name="" tvg-country="ID" tvg-logo="https://i.imgur.com/N4AJNdx.jpeg",TVBS Asia 1 ON (R)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f530cf9ab2244fdb935da69d93614188:ccd52f487ef5c2c29869a5b6899397bb
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
 
-#EXTINF:-1 group-title="DUNIA | CHINA" tvg-url="https://bit.ly/UnifyEpg" tvg-id="CCTV-4" tvg-country="ID" tvg-logo="https://i.imgur.com/OTUsPpF.jpeg",CCTV 4 1 ON (R)
+#EXTINF:-1 group-title="DUNIA | CHINA" tvg-url="https://bit.ly/UnifyEpg" tvg-id="CCTV-4" tvg-country="ID" tvg-logo="https://i.imgur.com/N4AJNdx.jpeg",CCTV 4 1 ON (R)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6224262601de437a81c99fdda7e2ea4a:7224fae0f679b70d22aca394a9084120
 https://atemecdnbalancer-voe.sysln.id/live/eds/CCTV4/mpd/CCTV4.mpd
 
 
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="110" tvg-logo="https://i.imgur.com/OTUsPpF.jpeg" group-title="DUNIA | CHINA",Celestial Classic 1
+#EXTINF:-1 tvg-id="110" tvg-logo="https://i.imgur.com/N4AJNdx.jpeg" group-title="DUNIA | CHINA",Celestial Classic 1
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCM_Celestial_Classic_MV-
 
-#EXTINF:-1 group-title="DUNIA | CHINA"  tvg-logo="https://i.imgur.com/OTUsPpF.jpeg",CELESTIAL MOVIE 1
+#EXTINF:-1 group-title="DUNIA | CHINA"  tvg-logo="https://i.imgur.com/N4AJNdx.jpeg",CELESTIAL MOVIE 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/celestialmovie/manifest.mpd
 
-#EXTINF:-1 group-title="DUNIA | CHINA"  tvg-logo="https://i.imgur.com/OTUsPpF.jpeg",PANDA TV[INDIHOME]
+#EXTINF:-1 group-title="DUNIA | CHINA"  tvg-logo="https://i.imgur.com/N4AJNdx.jpeg",PANDA TV[INDIHOME]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/pandatv/manifest.mpd
 
-#EXTINF:-1 group-title="DUNIA | CHINA"  tvg-logo="https://i.imgur.com/OTUsPpF.jpeg",KUNGFU TV[INDIHOME]
+#EXTINF:-1 group-title="DUNIA | CHINA"  tvg-logo="https://i.imgur.com/N4AJNdx.jpeg",KUNGFU TV[INDIHOME]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/kungfutv/manifest.mpd
@@ -5834,6 +5827,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/kungfutv/manifest.mpd
 ==========
 END | CHINA
 ===========
+
 ==========
 BRUNEI
 ==========
