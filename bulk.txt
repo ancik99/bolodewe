@@ -8680,7 +8680,7 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/gdh
 18/5/2025 FIX
  sdfgs
 
-#EXTM3U billed-msg="😎MASTER | lynk.id/bolodewestore😎"
+#EXTM3U billed-msg="😎ORDER LAGI>> lynk.id/bolodewestore😎"
 
 ================
 VOD BAR 
@@ -18544,5 +18544,3 @@ VOD HBO END
 ===========================
 UPDATE :  18/5/2025 FIX
 ============================
-
-EXTM3U billed-msg="😎8 MEI 2026 | lynk.id/bolodewestore😎"
